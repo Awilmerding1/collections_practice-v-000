@@ -17,6 +17,7 @@ end
 def swap_elements(array)
   shift_array = array.shift 
   slice_array = shift_array.slice(1, 1)
-  reverse_array = slice_array
+  reverse_array = slice_array.reverse 
+  
  end
     
