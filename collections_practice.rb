@@ -25,7 +25,8 @@ def swap_elements(array)
  def kesha_maker(array)
    new_array = []
    array.each do |string|
-    dollar_sign =
+   string[3] = $ 
+   new_array << 
  end
    
     
