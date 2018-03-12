@@ -17,7 +17,7 @@ end
 def swap_elements(array)
  first = array[1]
  second = array[2]
- swap_elements.each_with_index.map do |swap, index|
+ array.each_with_index.map do |swap, index|
    if index == 1 
      swap = second
      elsif index == 2 
