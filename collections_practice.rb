@@ -47,5 +47,6 @@ end
 def add_s(array)
   empty = []
   array.map do |s|
-    
+    unless 
+    s << "s"
     
