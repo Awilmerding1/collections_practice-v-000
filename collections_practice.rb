@@ -32,5 +32,6 @@ def swap_elements(array)
    
    
 def find_a(array)
-  array.select 
+  array.select do |a|
+    
     
