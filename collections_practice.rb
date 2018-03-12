@@ -22,6 +22,7 @@ def swap_elements(array)
      swap = second
      elsif index == 2 
      swap = first
+   else swap
    end
  end
  end
