@@ -26,7 +26,7 @@ def swap_elements(array)
    new_array = []
    array.each do |string|
   string[3] =  "$"
-   new_array << $
+   new_array << string[3]
  end
  end
    
