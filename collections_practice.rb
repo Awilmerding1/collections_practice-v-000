@@ -24,8 +24,8 @@ def swap_elements(array)
  
  def kesha_maker(array)
    new_array = []
-   array.each do |number|
-     if 
+   array.each do |string|
+    
  end
    
     
