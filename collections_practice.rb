@@ -30,4 +30,7 @@ def swap_elements(array)
  end
  end
    
+   
+def find_a(array)
+  
     
