@@ -50,7 +50,7 @@ def add_s(array)
     element << "s"
   end
 else 
-  elemtn
+  element
 end
 end
     
