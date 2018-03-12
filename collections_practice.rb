@@ -24,7 +24,7 @@ array.each_with_index do |swap, index|
 end
 end
   
- end
+ 
  
  def reverse_array(array)
    array.reverse 
